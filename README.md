@@ -1,4 +1,4 @@
-# Item Management
+# Armor Management 
 Lab 1: Armor Management 
 (Java Desktop)
 
